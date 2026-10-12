@@ -1,0 +1,78 @@
+#Table A4
+#List of classification spectra of the Literature sample.
+
+#Referernces:
+#Dall'Ora14 = Dall’Ora, M., Botticella, M. T., Pumo, M. L., et al. 2014b, ApJ, 787, 139
+#Bose15 = Bose, S., Valenti, S., Misra, K., et al. 2015, MNRAS, 450, 2373
+#Yaron17 = Yaron, O., Perley, D. A., Gal-Yam, A., et al. 2017, Nature Physics, 13, 510
+#Terreran16 = Terreran, G., Jerkstrand, A., Benetti, S., et al. 2016, MNRAS, 462, 137
+#Huang18 = Huang, F., Wang, X.-F., Hosseinzadeh, G., et al. 2018, MNRAS, 475, 3959
+#JG24 = Jacobson-Galán, W. V., Dessart, L., Davis, K. W., et al. 2024, ApJ, 970, 189
+#Tartaglia21 = Tartaglia, L., Sand, D. J., Groh, J. H., et al. 2021, ApJ, 907, 52
+#Zhang20 = Zhang, J., Wang, X., József, V., et al. 2020, MNRAS, 498, 84
+#Bruch2021 = Bruch, R. J., Gal-Yam, A., Schulze, S., et al. 2021, ApJ, 912, 46
+#Terreran22 = Terreran, G., Jacobson-Galán, W. V., Groh, J. H., et al. 2022, ApJ, 926, 20
+#Andrews24 = Andrews, J. E., Pearson, J., Hosseinzadeh, G., et al. 2024, ApJ, 965, 85
+#Bostroem23 = Bostroem, K. A., Pearson, J., Shrestha, M., et al. 2023b, ApJ, 956, L5
+#Zhang24 = Zhang, J., Dessart, L., Wang, X., et al. 2024, ApJ, 970, L18
+
+SN Flash_classification MJD Phase_(days) Data_source
+2012aw Ledge 56003.0 0.9 Dall'Ora14
+2013ab Ledge 56341.7 2.2 Bose15
+2013fs Class_3 56572.5 1.4 Yaron17
+2013hj Ledge 56639.1 2.3 WISeREP
+2014G Class_2 56671.1 1.5 Terreran16
+2016X Class_3 57407.7 1.4 Huang18
+2016aqf Non-Flash 57445.4 1.7 JG24
+2016iyz Ledge 57744.2 2.8 JG24
+2017ahn Class_1 57794.4 2.1 Tartaglia21
+2017eaw Ledge 57887.8 1.6 JG24
+2017gmr Class_3 58000.6 1.4 JG24
+2018zd Class_1 58182.2 3.8 Zhang20
+2018cuf Non-Flash 58293.0 1.1 JG24
+2018dfc Class_2 58305.1 2.2 Bruch21
+2018fif Class_3 58351.5 0.6 JG24
+2019edo Non-Flash 58601.5 1.7 JG24
+2019enr Non-Flash 58608.4 2.1 JG24
+2019nvm Non-Flash 58715.4 1.7 JG24
+2019nyk Class_2 58715.5 2.1 JG24
+2019ofc Class_3 58718.3 1.2 JG24
+2019pjs Ledge 58730.3 0.5 JG24
+2019qch Class_1 58747.2 7.5 JG24
+2019ust Class_1 58801.5 1.7 JG24
+2020ekk Ledge 58920.8 2.1 JG24
+2020fqv Class_3 58940.0 2.2 JG24
+2020jfo Ledge 58975.9 2.7 JG24
+2020lfn Class_3 58998.0 1.2 JG24
+2020mjm Non-Flash 59013.3 2.6 TNS
+2020nif Class_3 59024.3 1.6 JG24
+2020pni Class_1 59047.3 1.6 Terreran22
+2020tlf Class_1 59109.2 0.5 JG24
+2020xua Class_3 59144.1 2.5 JG24
+2020abjq Class_1 59186.3 1.4 JG24
+2020acbm Ledge 59194.3 1.6 JG24
+2021zj Class_1 59227.3 4.9 JG24
+2021aek Class_1 59229.3 2.8 JG24
+2021ass Non-Flash 59232.2 1.6 JG24
+2021gmj Non-Flash 59293.9 1.7 JG24
+2021gvm Class_3 59296.2 3.4 JG24
+2021jtt Class_3 59319.9 2.2 JG24
+2021mqh Class_1 59353.2 2.2 JG24
+2021ont Class_2 59369.4 3.5 JG24
+2021qvr Class_2 59388.0 2.4 JG24
+2021rhk Non-Flash 59397.3 2.0 JG24
+2021tyw Class_1 59425.2 8.3 JG24
+2021ucg Non-Flash 59421.0 1.4 JG24
+2021uoy Non-Flash 59429.4 2.0 JG24
+2021vaz Non-Flash 59432.6 0.4 JG24
+2021yja Ledge 59466.6 2.2 JG24
+2022dml Class_2 59638.5 4.5 JG24
+2022fuc Ledge 59672.3 0.5 JG24
+2022ibv Class_3 59693.0 3.2 JG24
+2022jox Class_2 59708.2 1.1 Andrews24
+2022jzc Non-Flash 59715.3 0.9 JG24
+2022ovb Non-Flash 59775.0 1.5 JG24
+2022pgf Class_1 59783.3 1.5 JG24
+2022prv Class_1 59793.3 10.0 JG24
+2023ixf Class_1 60084.9 2.2 Bostroem23
+2024ggi Class_1 60411.6 0.8 Zhang24
